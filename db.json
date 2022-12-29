@@ -1,0 +1,75 @@
+{
+	"records": [
+		{
+			"id": 1,
+			"title": "Chuck Berry is on Top",
+			"author": "Chuck Berry",
+			"price": "450,00",
+			"cover": "https://upload.wikimedia.org/wikipedia/pt/3/3d/Chuck_Berry_Is_on_Top_cover.jpg"
+		},
+		{
+			"id": 2,
+			"title": "The Jimi Hendrix Experience",
+			"author": "Jimi Hendrix",
+			"price": "376,00",
+			"cover": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Are_You_Experienced_-_US_cover.jpg"
+		},
+		{
+			"id": 3,
+			"title": "Duets: Jerry Lee Lewis and Friends",
+			"author": "Jerry Lee Lewis",
+			"price": "150,00",
+			"cover": "https://i.discogs.com/88T2dYD7Ikamhhiv7LauUgEs-9sQWl29sIqDcS10RO0/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODEz/NzItMTQ0MDc1MTIz/NC01MzY0LmpwZWc.jpeg"
+		},
+		{
+			"id": 4,
+			"title": "Led Zeppelin IV",
+			"author": "Led Zeppelin",
+			"price": "275,00",
+			"cover": "https://upload.wikimedia.org/wikipedia/pt/4/4b/LedZeppelinIV.jpg"
+		},
+		{
+			"id": 5,
+			"title": "Breakfast in America",
+			"author": "Supertramp",
+			"price": "395,00",
+			"cover": "https://upload.wikimedia.org/wikipedia/pt/c/cf/Supertramp_-_Breakfast_in_America_%281979%29.jpg"
+		},
+		{
+			"id": 6,
+			"title": "The Wall",
+			"author": "Pink Floyd",
+			"price": "377,00",
+			"cover": "https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf"
+		},
+		{
+			"id": 7,
+			"title": "Hot Space",
+			"author": "Queen",
+			"price": "230,00",
+			"cover": "https://upload.wikimedia.org/wikipedia/pt/9/99/Queen-Hot_Space.jpg"
+		},
+		{
+			"id": 8,
+			"title": "Hotel California",
+			"author": "Eagles",
+			"price": "280,00",
+			"cover": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg"
+		},
+		{
+			"id": 9,
+			"title": "Highway to Hell",
+			"author": "AC/DC",
+			"price": "325,00",
+			"cover": "https://upload.wikimedia.org/wikipedia/pt/a/ac/Acdc_Highway_to_Hell.JPG"
+		},
+		{
+			"id": 10,
+			"title": "Journey to the Center of the Earth",
+			"author": "Rick Wakeman",
+			"price": "600,00",
+			"cover": "https://m.media-amazon.com/images/I/71EsFkIFuPL._AC_SL1200_.jpg"
+		}
+
+	]
+}
